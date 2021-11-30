@@ -1,0 +1,68 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  font-family: 'Gamja Flower';
+  font-size: 20px;
+  color: #222;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; }
+
+#accordion h3 {
+  color: aqua; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.menu {
+  width: 100%;
+  height: 60px;
+  margin: auto;
+  background: #f5f5f5;
+  text-align: center;
+  position: fixed;
+  padding-top: 10px; }
+
+.menu ul {
+  display: flex; }
+
+.menu ul li {
+  list-style: none; }
+
+.menu ul li a {
+  text-decoration: none;
+  display: block;
+  padding: 10px 12px;
+  font-size: 30px;
+  font-weight: bold; }
+
+.part {
+  width: 100%;
+  height: 1000px; }
+
+.main {
+  padding-top: 80px; }
+
+.noi-dung {
+  width: 100%;
+  height: 1000px; }
+
+.part h2 {
+  opacity: 0.8;
+  text-align: center; }
+
+.part-1 {
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+.part-2 {
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+.part-3 {
+  background-size: cover;
+  background-repeat: no-repeat; }
+
+/*# sourceMappingURL=KT.css.map */
